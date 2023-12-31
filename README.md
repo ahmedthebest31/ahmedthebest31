@@ -1,77 +1,68 @@
-[![Banner](https://user-images.githubusercontent.com/your_username/your_banner_image.jpg)](https://github.com/ahmedthebest31)
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-# Ahmed Samy Hassen el-Khouly
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
-📍 Location: Cairo, Egypt  
-📧 Email: ahmedthebest31@gmail.com  
-📞 Phone: 01098245058  
-[![GitHub](https://img.shields.io/badge/GitHub-ahmedthebest31-blue?style=flat-square&logo=github)](https://github.com/ahmedthebest31)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20Samy-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ahmedthebest)
+<img src="https://komarev.com/ghpvc/?username=ahmedthebest31&style=flat-square&color=blue" alt="visiters counter"/>
 
----
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
-## Summary
-
-🚀 Full-stack web developer skilled in the MERN stack, WordPress, Linux administration, and security. Content creator since 2016, leading the most renowned YouTube channel for the blind in the Middle East. Experienced Udemy instructor, project consultant, and agent for an acapella group. Fluent in Arabic and English.
-
----
-
-## Education
-
-🎓 **Bachelor's Degree in Italian and English**  
-Faculty of Al-Alsun, Ain Shams University
-
----
-
-## Skills
-
-💻 **Programming Languages:** HTML, CSS, JavaScript, NodeJS, Python, C#, WordPress, Git  
-🔐 **Administration & Security:** Linux, Cloud, Bash-Scripting, Deploying Systems, Security  
-🌐 **Languages:** Fluent in Arabic and English
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 ---
 
-## Volunteer Work
+:man_technologist:  🚀 Full-stack web developer skilled in the MERN stack, WordPress, Linux administration, and security. Content creator since 2016, leading the most renowned YouTube channel for the blind in the Middle East. Experienced Udemy instructor, project consultant, and agent for an acapella group. Fluent in Arabic and English. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from egypt.
+ 
+- :telescope: Linux Administrator Cloud, Bash-Scripting, Deploying Systems, Security.
+- Managed Linux servers, ensuring optimal performance.  
 
-🤝 Prepared 1,000 laptops for blind individuals across Egyptian universities.  
-🎼 Collaborated with the Acapella Group, the Egyptian Orman Society, and the Egyptian Ministry of Social Solidarity.  
-🔧 Assisted individuals with special needs technically at Rafiq-ElDarb, Faculty of El-Alsun, Ain Shams University.
+- :seedling: Online Instructor at Udemy.com
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original-wordmark.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original-wordmark.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original-wordmark.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original-wordmark.svg" title="wordpress" **alt="wordpress" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/c#/c#-original-wordmark.svg" title="C#" **alt="c#" width="40" height="40"/>
+
+</div>
 
 ---
 
-## Work Experience
+### :fire: My Stats :
 
-### Project Consultant, Senara, Saudi Arabia (Remote)  
-📅 [2020] - [2021]  
-- Assisted in devising project strategies and guidelines.
-- Collaborated with international teams to ensure project delivery on time.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedthebest31&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### Full Stack Web Developer (Freelance)  
-📅 [2018] - [Present]  
-- Specialized in MERN and WordPress.
-
-### Professional Accessibility Tester, Accessibility Lab, USA (Remote)  
-📅 [2022] - [2023]  
-- Conducted accessibility tests for various digital platforms.
-- Collaborated with development teams to provide feedback and suggestions.
-
-### Content Creator  
-📅 Since 2016  
-- Owner of the most famous YouTube channel for the blind in the Middle East.
-- [![YouTube](https://img.shields.io/badge/YouTube-ahmedsamy31-red?style=flat-square&logo=youtube)](https://www.youtube.com/ahmedsamy31)
-
-### Online Instructor, Udemy  
-📅 [2020] - [Present]  
-- Web development, Python, Linux Administration, Security, Flutter.
-- [![Udemy](https://img.shields.io/badge/Udemy-ahmedsamy--10-blue?style=flat-square&logo=udemy)](https://www.udemy.com/user/ahmedsamy-10/)
-
-### Agent, Middle East for an Acapella Group, France (Remote)  
-📅 [2020] - [Present]  
-
-### Linux Administrator (Freelance)  
-📅 [2020] - [Present]  
-- Cloud, Bash-Scripting, Deploying Systems, Security.
-- Managed Linux servers, ensuring optimal performance.
-
----
 
