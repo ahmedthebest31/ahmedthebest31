@@ -1,66 +1,77 @@
-# Ahmed Samy 
-[LinkedIn](https://www.linkedin.com/in/ahmedthebest)
+[![Banner](https://user-images.githubusercontent.com/your_username/your_banner_image.jpg)](https://github.com/ahmedthebest31)
 
-## Summary:
-Full-stack web developer skilled in the MERN stack, WordPress, Linux administration, and security. Since 2016, I've been a content creator with the most renowned YouTube channel for the blind in the Middle East. Experienced as a Udemy instructor, project consultant, and agent for an acapella group. Fluent in both Arabic and English.
+# Ahmed Samy Hassen el-Khouly
 
+📍 Location: Cairo, Egypt  
+📧 Email: ahmedthebest31@gmail.com  
+📞 Phone: 01098245058  
+[![GitHub](https://img.shields.io/badge/GitHub-ahmedthebest31-blue?style=flat-square&logo=github)](https://github.com/ahmedthebest31)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20Samy-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ahmedthebest)
 
-## Education:
-Bachelor's Degree in Italian and English
-Faculty of Al-Alsun, Ain Shams University, 
+---
 
+## Summary
 
-## Skills:
-- Programming Languages: HTML, CSS, JavaScript, NodeJS, Python, C#, WordPress, Git
-- Administration & Security: Linux, Cloud, Bash-Scripting, Deploying Systems, Security
-- Languages: Fluent in Arabic and English
+🚀 Full-stack web developer skilled in the MERN stack, WordPress, Linux administration, and security. Content creator since 2016, leading the most renowned YouTube channel for the blind in the Middle East. Experienced Udemy instructor, project consultant, and agent for an acapella group. Fluent in Arabic and English.
 
+---
 
+## Education
 
-## Work Experience:
-1, Project Consultant, Senara, Saudi Arabia (Remote)
-[2020] - [2021]
-Assisted in devising project strategies and guidelines.
-Worked collaboratively with international teams to ensure project delivery on time.
+🎓 **Bachelor's Degree in Italian and English**  
+Faculty of Al-Alsun, Ain Shams University
 
-1, Full Stack Web Developer (Freelance)
-Specialized in MERN and WordPress.
-[2018] - [Present]
+---
 
-3, Professional Accessibility Tester, Accessibility Lab, USA (Remote)
-[2022] - [2023]
-Conducted accessibility tests for various digital platforms, software, services, operating-systems ensuring they are inclusive for users with disabilities. 
-Collaborated with development teams to provide feedback and suggestions.
+## Skills
 
-4, Content Creator
-Owner of the most famous Youtube channel for the blind in the Middle East.
-https://www.youtube.com/ahmedsamy31
-Since 2016
-Produced and published content tailored for the visually impaired community in the Middle East.
-Gained a good following and collaborated with various brands for sponsorships.
+💻 **Programming Languages:** HTML, CSS, JavaScript, NodeJS, Python, C#, WordPress, Git  
+🔐 **Administration & Security:** Linux, Cloud, Bash-Scripting, Deploying Systems, Security  
+🌐 **Languages:** Fluent in Arabic and English
 
-5, Online Instructor, Udemy
-Udemy Profile link: https://www.udemy.com/user/ahmedsamy-10/
-[2020] - [Present]
-web development, Python, Linux Administration and Security, Flutter.
+---
 
-Designed and delivered courses to a lot of students globally.
-Received positive feedback and maintained high ratings.
+## Volunteer Work
 
-6, Agent, Middle East for an Acapella Group, France (Remote) 
-[2020] - [Present]
-Managed bookings and events for the Acapella Group in the Middle East region.
-Negotiated contracts and ensured timely payments.
+🤝 Prepared 1,000 laptops for blind individuals across Egyptian universities.  
+🎼 Collaborated with the Acapella Group, the Egyptian Orman Society, and the Egyptian Ministry of Social Solidarity.  
+🔧 Assisted individuals with special needs technically at Rafiq-ElDarb, Faculty of El-Alsun, Ain Shams University.
 
-Linux Administrator (Freelance) (
-[2020] - [Present]
-Cloud, Bash-Scripting, Deploying Systems, Security.
-Managed Linux servers, ensuring their optimal performance.
-Implemented security measures and regularly updated systems.
+---
 
+## Work Experience
 
-### Volunteer Work:
+### Project Consultant, Senara, Saudi Arabia (Remote)  
+📅 [2020] - [2021]  
+- Assisted in devising project strategies and guidelines.
+- Collaborated with international teams to ensure project delivery on time.
 
-Prepared 1,000 laptops for use by blind individuals across Egyptian universities. Collaborated with the Acapella Group, the Egyptian Orman Society, and the Egyptian Ministry of Social Solidarity.
-Assisted individuals with special needs technically and maintained their devices at Rafiq-ElDarb, Faculty of El-Alsun, Ain Shams University.
+### Full Stack Web Developer (Freelance)  
+📅 [2018] - [Present]  
+- Specialized in MERN and WordPress.
+
+### Professional Accessibility Tester, Accessibility Lab, USA (Remote)  
+📅 [2022] - [2023]  
+- Conducted accessibility tests for various digital platforms.
+- Collaborated with development teams to provide feedback and suggestions.
+
+### Content Creator  
+📅 Since 2016  
+- Owner of the most famous YouTube channel for the blind in the Middle East.
+- [![YouTube](https://img.shields.io/badge/YouTube-ahmedsamy31-red?style=flat-square&logo=youtube)](https://www.youtube.com/ahmedsamy31)
+
+### Online Instructor, Udemy  
+📅 [2020] - [Present]  
+- Web development, Python, Linux Administration, Security, Flutter.
+- [![Udemy](https://img.shields.io/badge/Udemy-ahmedsamy--10-blue?style=flat-square&logo=udemy)](https://www.udemy.com/user/ahmedsamy-10/)
+
+### Agent, Middle East for an Acapella Group, France (Remote)  
+📅 [2020] - [Present]  
+
+### Linux Administrator (Freelance)  
+📅 [2020] - [Present]  
+- Cloud, Bash-Scripting, Deploying Systems, Security.
+- Managed Linux servers, ensuring optimal performance.
+
+---
 
