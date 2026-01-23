@@ -1,66 +1,92 @@
-<div id="header" align="center">
-    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=_>+Hello,+World!;_>+I+am+Ahmed+Samy;_>+Software+Engineer;_>+Accessibility+Advocate" alt="Animated text: Hello, World! I am Ahmed Samy; Software Engineer; Accessibility Advocate" />
 </div>
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/ahmedthebest">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ahmedthebest31&theme=git_dark&no-frame=true&no-bg=true&margin-w=4" alt="Ahmed's GitHub Achievements and Trophies collection" />
   </a>
-  <a href="https://www.youtube.com/ahmedsamy31">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://www.twitter.com/ahmedthebest31/">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=ahmedthebest31&style=flat-square&color=blue" alt="visiters counter"/>
+```bash
+# 👤 USER IDENTIFICATION
+_> whoami
+  Name:       Ahmed Samy Hassen El-Khouly
+  Role:       Software Engineer | Accessibility Consultant | Content Creator
+  Location:   Minuf, Egypt 🇪🇬
+  Awards:     🥇 Winner of Global IT Challenge (GITC) 2024
+  Status:     Online 🟢
 
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+# 📜 BIO & MISSION
+_> cat about_me.txt
+  "I am an award-winning Software Engineer and Accessibility Advocate with a unique edge. 
+  I don't just write code; I bridge the gap between complex technology and accessibility.
+  
+  From building Native Android apps and configuring Linux servers via CLI, to managing 
+  game distribution deals in the Middle East and teaching 18,000+ students on YouTube.
+  I believe in open-source, inclusive tech, and the power of the terminal."
+
+# 🛠️ TECHNICAL ARSENAL
+_> cat /etc/skills.conf
+
+  [PROGRAMMING_LANGUAGES]
+  ├── Python (Advanced Automation & Scripting)
+  ├── Go (Golang) & C# (System & Backend)
+  ├── JavaScript / TypeScript
+  └── Kotlin (Native Android / Jetpack Compose)
+
+  [WEB_STACK_TRENDS]
+  ├── Stack:    PERN (PostgreSQL, Express, React, Node.js) 🚀
+  ├── CMS:      WordPress (Advanced Customization)
+  └── Frontend: HTML5, CSS3, Tailwind, Next.js
+
+  [SYSTEM_OPERATIONS]
+  ├── OS:       Arch Linux / Debian / Windows (WSL2 Expert)
+  ├── DevOps:   Docker, GitHub Actions (CI/CD), Bash Scripting
+  ├── Security: SSH Hardening, VPS Deployment, UFW Firewalls
+  └── Access:   NVDA Add-on Dev, Orca, Accessibility Testing
+
+# 💼 PROFESSIONAL LOGS
+_> tail -n 5 work_history.log
+
+  [2025-Present] Game Distribution Agent @ Prudence Interactive (China/Remote)
+  > Leading game promotion & localization strategies for the MENA region.
+
+  [2024-2025] Programming Instructor @ Nour Almarefah (KSA/Remote)
+  > Mentoring students in Python & Web Development.
+
+  [2020-Present] Senior Instructor @ Udemy
+  > Top-rated instructor (4.8/5) teaching Linux, Security, and Coding.
+
+  [2016-Present] Content Creator @ YouTube
+  > Founder of the leading tech channel for the blind in MENA (18K+ Subs).
+```
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
 
----
+### 📊 GITHUB CONTRIBUTION GRID
+`_> ./show_activity_graph.sh`
 
-:man_technologist:  🚀 Full-stack web developer skilled in the MERN stack, WordPress, Linux administration, and security. Content creator since 2016, leading the most renowned YouTube channel for the blind in the Middle East. Experienced Udemy instructor, project consultant, and agent for an acapella group. Fluent in Arabic and English. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from egypt.
- 
-- :telescope: Linux Administrator Cloud, Bash-Scripting, Deploying Systems, Security.
-- Managed Linux servers, ensuring optimal performance.  
+<br>
 
-- :seedling: Online Instructor at Udemy.com
+<img src="https://github-readme-stats.vercel.app/api?username=ahmedthebest31&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Ahmed's GitHub Activity Statistics including total stars, commits, PRs, and issues" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedthebest31&layout=compact&theme=radical&hide_border=true" alt="Most used programming languages statistics" />
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+<br>
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedthebest)
-
----
-
-### :hammer_and_wrench: Languages and Tools :
-
-<div align="center>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp; &nbsp; &nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp; &nbsp; &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp; &nbsp; &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp; &nbsp; &nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp; &nbsp; &nbsp;
-  <br />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp; &nbsp; &nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp; &nbsp; &nbsp;
-       <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original-wordmark.svg" title="wordpress" **alt="wordpress" width="40" height="40"/>&nbsp; &nbsp; &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original-wordmark.svg" title="C#" **alt="c#" width="40" height="40"/>&nbsp; &nbsp; &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp; &nbsp; &nbsp;
+<img src="https://raw.githubusercontent.com/ahmedthebest31/ahmedthebest31/output/github-contribution-grid-snake.svg" alt="Snake game animation played over the contribution history graph" width="100%" />
 
 </div>
 
----
+<br>
 
-### :fire: My Stats :
+```bash
+# 📫 CONNECT & SUPPORT
+_> ./contact_me.sh
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedthebest31&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
+  Email:    ahmedthebest31@gmail.com
+  LinkedIn: linkedin.com/in/ahmedthebest
+  Support:  Click the "Sponsor" button above (PayPal)
+  
+_> echo "Exiting... Have a nice day!"
+```
