@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=_>+Hello,+World!;_>+I+am+Ahmed+Samy;_>+Software+Engineer;_>+Accessibility+Advocate" alt="Animated text: Hello, World! I am Ahmed Samy; Software Engineer; Accessibility Advocate" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=_>+Hello,+World!;_>+I+am+Ahmed+Samy;_>+Software+Engineer;_>+Accessibility+Advocate" alt="Animated text: Hello, World! I am Ahmed Samy; Software Engineer; Accessibility Advocate" />
 </div>
 
 <p align="center">
@@ -67,19 +67,25 @@ _> tail -n 5 work_history.log
 ### 📊 GITHUB CONTRIBUTION GRID
 `_> ./show_activity_graph.sh`
 
+<div align="center">
+
+### 📊 GITHUB CONTRIBUTION GRID
+`_> ./show_activity_graph.sh`
+
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ahmedthebest31&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Ahmed's GitHub Activity Statistics including total stars, commits, PRs, and issues" />
+<img src="https://github-readme-stats.vercel.app/api?username=ahmedthebest31&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Ahmed's GitHub Activity Statistics" />
+<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedthebest31&layout=compact&theme=radical&hide_border=true" alt="Most used programming languages statistics" />
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedthebest31&theme=radical&hide_border=true" alt="Ahmed's Coding Streak" />
 
 <br>
 
 <img src="https://raw.githubusercontent.com/ahmedthebest31/ahmedthebest31/output/github-contribution-grid-snake.svg" alt="Snake game animation played over the contribution history graph" width="100%" />
 
 </div>
-
 <br>
-
 ```bash
 # 📫 CONNECT & SUPPORT
 _> ./contact_me.sh
